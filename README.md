@@ -13,6 +13,15 @@ Identify and describe at least three key milestones in the evolution of software
 3.The Rise of Agile methodologies and DevOps(2000s): It shifted software development from rigid, sequential models to more iterative, collaborative and flexible approaches.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+The Software Development Life Cycle (SDLC) is a structured process software developers use to design, develop, and test high-quality software. The main phases of the SDLC are:
+1. Planning: This phase involves defining the project goals, scope, purpose, and feasibility. Key activities include resource allocation, cost estimation, and setting a project timeline.
+2. Requirements Analysis: In this phase, the specific requirements of the software, including user needs, technical needs, and system functionality, are gathered and documented to guide the design and development process.
+3. Design: Developers create detailed designs and architectural frameworks, outlining the system's components, data flow, and user interfaces. This phase translates requirements into a blueprint for building the software.
+4. Development: The actual coding and programming are done in this phase. Developers follow the design documentation to build and integrate the software's components.
+5. Testing: The software undergoes rigorous testing to identify and fix any bugs or issues. Testing ensures the software functions as intended, meets all requirements and is free of defects.
+6. Deployment: The software is deployed to a live environment after successful testing. This phase involves installation, configuration, and initial monitoring to ensure the system operates smoothly.
+7. Maintenance: This ongoing phase includes making necessary updates, enhancements, and bug fixes to ensure the software continues to meet user needs and function efficiently over time. 
+These phases ensure systematic, predictable development, producing robust and high-quality software products.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
