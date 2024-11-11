@@ -8,9 +8,9 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is the field of designing, developing, testing and maintaining software applications in a systematic, disciplined and measurable way. It applies engineering principles to software creation, ensuring that applications are reliable, efficient and meet the needs of users. This discipline involves a range of activities, including requirements analysis, system design, programming, testing and project management. Some of the Importance of software engineering in the technology industry include, first, Ensures high-quality products by producing reliable, efficient and secure software by applying rigorous testing and validation processes. Secondly, It improves efficiency and productivity by optimizing the development process through systematic methodology and tools, allowing teams to work more efficiently and deliver projects faster. Third, Facilitates scalability by engineering the software well. Fourth, It Enhances security. It also Encourages innovation and finally it reduces cost and risks and supports long-term maintenance.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1.The Advent of structured programming(1960s-1970s): Structured programming laid the groundwork for code readability and maintainability. It promoted the use of clear and organized code, which is fundamental to developing large and complex systems.
-2.Introduction of Object-Oriented Programming(OOP)(1980s): Object-oriented programming introduced a paradigm shift in software development by organizing software around "objects" rather than just functions and logic.
-3.The Rise of Agile methodologies and DevOps(2000s): It shifted software development from rigid, sequential models to more iterative, collaborative and flexible approaches.
+1. The Advent of structured programming(1960s-1970s): Structured programming laid the groundwork for code readability and maintainability. It promoted the use of clear and organized code, which is fundamental to developing large and complex systems.
+2. Introduction of Object-Oriented Programming(OOP)(1980s): Object-oriented programming introduced a paradigm shift in software development by organizing software around "objects" rather than just functions and logic.
+3. The Rise of Agile methodologies and DevOps(2000s): It shifted software development from rigid, sequential models to more iterative, collaborative and flexible approaches.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 The Software Development Life Cycle (SDLC) is a structured process software developers use to design, develop, and test high-quality software. The main phases of the SDLC are:
@@ -52,19 +52,19 @@ In summary, Waterfall is suited for projects where predictability and stability 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Roles and Responsibilities
-Software Developer:
+1. Software Developer:
 Role: Responsible for designing, coding, and maintaining the software.
 Responsibilities: 
 Write and optimize code according to design specifications.
 Collaborate with other developers and stakeholders to create a robust product.
 Debug, troubleshoot, and update code to improve functionality and resolve issues.
-Quality Assurance (QA) Engineer:
+2. Quality Assurance (QA) Engineer:
 Role: Ensures the product is high quality by developing and executing test plans to catch and prevent issues.
 Responsibilities: 
 Design test cases and test scenarios for functional, regression, and user acceptance testing.
 Automate tests where feasible and manually test when necessary.
 Identify, log, and track defects, ensuring they are resolved before release.
-Project Manager:
+3. Project Manager:
 Role: Oversees the project timeline, scope, and resources to ensure successful delivery.
 Responsibilities: 
 Define project goals, deliverables, and schedules, aligning with stakeholders’ expectations.
