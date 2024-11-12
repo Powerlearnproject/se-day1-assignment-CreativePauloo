@@ -86,6 +86,26 @@ Subversion (SVN): A centralized VCS often used in large enterprise environments 
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+1. Dealing with Changing Requirements:
+Challenge: Shifting requirements can lead to rework, delays and scope creep.
+Strategies: 
+Use Agile methodologies that accommodate changes with iterative development.
+Communicate frequently with stakeholders to clarify requirements early and manage expectations.
+2. Debugging Complex Issues:
+Challenge: Finding the root cause of bugs, especially in large codebases, can be time-consuming.
+Strategies:
+Use debugging tools and logging to trace issues.
+Break down the codebase into smaller components and test them individually.
+3. Managing Time and Deadlines:
+Challenge: Engineers often face tight deadlines, especially when handling multiple tasks.
+Strategies:
+Prioritize tasks using project management tools (e.g., Trello, Jira).
+Break down work into manageable chunks and set realistic goals.
+4. Technical Debt:
+Challenge: Accumulating shortcuts or incomplete solutions can lead to long-term maintenance issues.
+Strategies:
+Allocate time for refactoring and code reviews.
+Regularly address technical debt in each development cycle to prevent buildup.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
