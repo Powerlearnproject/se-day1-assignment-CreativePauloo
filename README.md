@@ -109,6 +109,22 @@ Regularly address technical debt in each development cycle to prevent buildup.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+1. Unit Testing:
+Purpose: Test individual components or functions of the software to ensure they work correctly in isolation.
+Importance: Catches errors early in development, reducing the risk of bugs in later stages.
+Example: Testing a single function that calculates user scores to ensure it produces correct results with different inputs.
+2. Integration Testing:
+Purpose: Verifies that different components or modules work together as expected.
+Importance: Ensures that combined parts of the system function correctly, particularly at the interfaces between modules.
+Example: Testing the interaction between a front-end login interface and the back-end authentication service.
+3. System Testing:
+Purpose: Tests the entire integrated system to ensure it meets specified requirements.
+Importance: Assesses the overall behavior of the software, ensuring that all parts function together as a cohesive whole.
+Example: Testing a complete e-commerce application’s workflow, from product search to checkout.
+4. Acceptance Testing:
+Purpose: Validates the software against user requirements, often conducted by end users.
+Importance: Confirms that the software meets the end users' needs and is ready for deployment.
+Example: Performing final testing on a CRM system to verify that it meets sales team requirements before release.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
